@@ -1,3 +1,4 @@
 # react2
 
- Speed Typing Game
+ Speed Typing Game.
+ Custom Hook.
